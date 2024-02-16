@@ -1,0 +1,5 @@
+echo -n "xxxxxxxxxxxxxx" |  sudo tee /etc/chainflip/keys/ethereum_key_file
+
+chainflip-node key generate   copy all to notepad
+
+SECRET_SEED=xxxxxxxxxxxx
